@@ -211,5 +211,6 @@ export default {
 
   #nav a.router-link-exact-active {
     color: #ffffff;
+    background-color:#eca50b;
   }
 </style>

@@ -164,7 +164,7 @@
         public_address: "",
         isUploading: false,
         encrypted_wallet: "",
-        idanode: "",
+        nodesh: "",
         unlockPwd: "",
         user: "",
         supply: 0,
@@ -275,7 +275,7 @@
     padding: 8px;
     right: 10px;
     z-index: 9999;
-    border: 1px solid #ccc;
+    border: 1px solid rgb(218, 188, 19);
     border-top-left-radius: 4px;
     border-top-right-radius: 4px;
   }
