@@ -1,5 +1,5 @@
 @import "~bulma/sass/utilities/_all";
-$primary: #e0a606;
+$primary: #07a32c;
 $primary-invert: findColorInvert($primary);
 $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
@@ -69,7 +69,7 @@ h1{
 }
 
 .list-trade{
-    border: 1px solid #cccccc;
+    border: 1px solid #dbd9be;
     border-radius: 5px;
     padding:10px;
     margin-bottom:15px;
